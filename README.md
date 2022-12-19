@@ -1,4 +1,4 @@
-### Opa, sou Kaio Eduardo 🤯
+### Hi, i'm Kaio Eduardo, full stack web developer 🤯
 
 <div align="center">
   <a href="https://github.com/EduardoKaio">
