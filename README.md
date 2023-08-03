@@ -21,7 +21,7 @@
     <a href=""> <img alt="Static Badge" src="https://img.shields.io/badge/PORTF%C3%93LIO?style=white&logo=globe&color=white">
 </a>
  <a href="https://wa.me/5584991139690?text=Ol%C3%A1%21+Vim+pelo+seu+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:kaioeduardooficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaioeduardooficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/kaio-alves-11605224a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
