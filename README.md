@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="site">
   </a>
   <a href="https://wa.me/5584991139690?text=Ol%C3%A1%21+Vim+pelo+seu+GitHub.">
-    <img src="https://img.shields.io/badge/Whatsapp?style=for-the-badge&logo=whatsapp&logoColor=green" alt="site">
+    <img src="https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=green" alt="site">
   </a>
   <a href="mailto:kaioeduardooficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="site">
