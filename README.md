@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="220px" src="https://kaioeduardo.com/img/letra-k(1).png"/>
+  <img width="180px" src="https://kaioeduardo.com/img/letra-k(2).png"/>
 </p>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=hack&size=40&center=true&vCenter=true&width=1000&lines=Kaio+Eduardo+Alves)](https://git.io/typing-svg)
