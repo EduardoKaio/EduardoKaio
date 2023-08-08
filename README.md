@@ -2,11 +2,9 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Kaio</h1>
-<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
+<p align = "justify">Back-end developer, coffee lover, python and DB fan. Curious and dedicated style, with learning acquired daily.</p>
 
-I currently work at Serpro [SERPRO](https://www.serpro.gov.br)
-
-I'm learning at the moment **ReactNative, ReactJS, Deno**
+I'm learning at the moment **NodeJS e Express**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
