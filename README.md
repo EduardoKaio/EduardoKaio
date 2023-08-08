@@ -7,10 +7,15 @@
 I'm learning at the moment **NodeJS e Express**
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-natansl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)](https://www.linkedin.com/in/natanael-de-sousa-leite-57980725/)
-[![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
-[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl)
-[![Gmail Badge](https://img.shields.io/badge/-natansl@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natansl@gmail.com)](mailto:natansl@gmail.com)
+<div> 
+    <a href="https://kaioeduardo.com" target="_blank"> <img src="https://img.shields.io/badge/Portfólio-%23ffffff.svg?&style=for-the-badge&logo=keras&logoColor=gray"></a>
+ <a href="https://wa.me/5584991139690?text=Ol%C3%A1%21+Vim+pelo+seu+GitHub." target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="mailto:kaioeduardooficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaio-eduardo-alves-11605224a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+
 
 ## 🚀💻 Technologies & Tools
 <div style="display: inline_block">
