@@ -2,7 +2,7 @@
 
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Kaio</h1>
-<p align = "justify">Back-end developer, coffee lover, python and DB fan. Curious and dedicated style, with learning acquired daily.</p>
+<p align = "justify">Back-end developer, coffee lover, python e AWS fan. Curious and dedicated style, with learning acquired daily.</p>
 
 I'm learning at the moment **NodeJS e Express**
 
