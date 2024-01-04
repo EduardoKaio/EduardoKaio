@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Kaio</h1>
 <p align = "justify">Back-end developer and coffee lover. Curious and dedicated style, with learning acquired daily.</p>
 
-I'm learning at the moment **Spring Boot**
+I'm learning at the moment **REST and Spring Boot**
 
 
 <div> 
